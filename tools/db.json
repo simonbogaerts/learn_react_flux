@@ -40,14 +40,14 @@
       "title": "Building Applications in React and Flux",
       "slug": "react-flux-building-applications",
       "authorId": 1,
-      "category": "JavaScript 2"
+      "category": "JavaScript"
     },
     {
       "id": 7,
       "title": "Clean Code: Writing Code for Humans",
       "slug": "writing-clean-code-humans",
       "authorId": 1,
-      "category": "Software Practices 2"
+      "category": "Software Practices"
     },
     {
       "id": 8,
@@ -72,19 +72,11 @@
     },
     {
       "id": 11,
-      "slug": "aaaa",
-      "title": "aaaa",
+      "slug": "second-the-great-old-ones-song",
+      "title": "Second The Great Old Ones Song",
       "authorId": 1,
       "category": "aaa",
-      "createdAt": 1578490566436
-    },
-    {
-      "id": 12,
-      "slug": "test",
-      "title": "test",
-      "authorId": 1,
-      "category": "test",
-      "createdAt": 1578491843905
+      "createdAt": 1578499525127
     }
   ],
   "authors": [
